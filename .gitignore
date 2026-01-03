@@ -1,0 +1,4 @@
+projvenv/
+.github/
+.vscode/
+__pycache__/
